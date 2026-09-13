@@ -1,0 +1,13 @@
+[flavor]
+use = "tokyo-night"
+# For Yazi 0.4 and above
+dark = "tokyo-night"
+
+[manager]
+ratio = [1, 3, 3]
+sort_by = "mtime"
+sort_sensitive = false
+sort_dir_first = true
+sort_translit = false
+linemode = "size"
+# show_hidden = true
