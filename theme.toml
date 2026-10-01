@@ -5,6 +5,10 @@ dark = "tokyo-night"
 [status]
 overall = { bg = "#16161e", fg = "#a9b1d6" }
 
+[indicator]
+current = { bg = "#292e42" }
+padding = { open = "", close = "" }
+
 
 [git]
 unknown   = { fg = "darkgray" }
