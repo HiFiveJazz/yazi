@@ -2,3 +2,27 @@
 use = "tokyo-night"
 # For Yazi 0.4 and above
 dark = "tokyo-night"
+[status]
+overall = { bg = "#16161e", fg = "#a9b1d6" }
+
+
+[git]
+unknown   = { fg = "darkgray" }
+ignored   = { fg = "darkgray" }
+untracked = { fg = "blue" }
+unstaged  = { fg = "yellow" }
+staged    = { fg = "green" }
+added     = { fg = "green" }
+deleted   = { fg = "red", bold = true }
+updated   = { fg = "yellow", bold = true }
+clean     = {}
+
+unknown_sign   = " "
+ignored_sign   = " "
+untracked_sign = "?"
+unstaged_sign  = "M"
+staged_sign    = "M"
+added_sign     = "A"
+deleted_sign   = "D"
+updated_sign   = "U"
+clean_sign     = ""
