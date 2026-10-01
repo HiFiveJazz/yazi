@@ -6,6 +6,7 @@ dark = "tokyo-night"
 overall = { bg = "#16161e", fg = "#a9b1d6" }
 
 [indicator]
+parent  = { bg = "#292e42" }
 current = { bg = "#292e42" }
 padding = { open = "", close = "" }
 
