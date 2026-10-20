@@ -48,6 +48,16 @@ use = "Lil-Dank/lazygit"
 rev = "e73fd74"
 hash = "6ea5f37c7f219671ec504cb8311f889d"
 
+[[plugin.deps]]
+use = "yazi-rs/plugins:term-cwd"
+rev = "33dde28"
+hash = "ea4d7108bc2c02738ab652064095905f"
+
+[[plugin.deps]]
+use = "AnirudhG07/rich-preview"
+rev = "02597c4"
+hash = "33982a6e2d6df07619a2a0fc163a0950"
+
 [[flavor.deps]]
 use = "BennyOe/tokyo-night"
 rev = "8e6296f"
