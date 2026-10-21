@@ -9,7 +9,7 @@ local original_status_redraw = Status.redraw
 
 require("mobile-auto-layout"):setup({
 	-- your options, if any
-    current_max = 50,
+    current_max = 70,
     parent_max = 40,
     padding = 13,
 })
